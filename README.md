@@ -1,8 +1,36 @@
-# BLANK README
+# Personal Curriculum Vitae Templates
 
-This repository was generated from [O957](https://github.com/O957)'s [template repository](https://github.com/O957/O957-Template).
+_A collection of templates I use or have used for my curriculum vitaes (CV), without the actual CV content present._
 
-If you are seeing this message, then this repository likely contains no meaningful content.
+## Templates
+
+_Rendered PDFs of the templates that this repository currently contains._
+
+> [!NOTE]
+>
+> This is coming soon...
+
+## Installation
+
+To install `O957-CV-Templates`:
+
+```bash
+# clone the repository
+git clone https://github.com/O957/O957-CV-Templates
+cd O957-CV-Templates
+```
+
+## Usage
+
+To use `O957-CV-Templates`:
+
+> [!NOTE]
+>
+> This is coming soon...
+
+## Contributing
+
+Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
 
 ## License Standard Notice
 
