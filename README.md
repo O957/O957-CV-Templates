@@ -1,13 +1,13 @@
 # Personal Curriculum Vitae Templates
 
-_A collection of templates I use or haved used for my curriculum vitaes (CV), without the actual CV content present._
+_A collection of templates I use or have used for my curriculum vitaes (CV), without the actual CV content present._
 
 ## Templates
 
 _Rendered PDFs of the templates that this repository currently contains._
 
 > [!NOTE]
-> 
+>
 > This is coming soon...
 
 ## Installation
@@ -25,7 +25,7 @@ cd O957-CV-Templates
 To use `O957-CV-Templates`:
 
 > [!NOTE]
-> 
+>
 > This is coming soon...
 
 ## Contributing
